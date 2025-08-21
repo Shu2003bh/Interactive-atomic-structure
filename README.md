@@ -83,7 +83,7 @@ npm run dev   # or npm run build && npm run preview
 
 ## Links
 - **Live App:** https://interactive-atomic-s-ffle.bolt.host/
-- **Source Code (GitHub):** 
+- **Source Code (GitHub):** https://github.com/Shu2003bh/Interactive-atomic-structure/tree/main
 
 ---
 
